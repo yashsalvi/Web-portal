@@ -1,0 +1,11 @@
+#pick-test{
+  width: 70%;
+  margin: 0 auto;
+}
+#pick-test button{
+  margin-left: 25%;
+  word-break: break-all;
+}
+label{
+  color: #f0b81f;
+}
