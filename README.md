@@ -1,4 +1,4 @@
-# online_test
+# Online_test_portal
 
 Online examination process is easy both for the host and the candidates. Online exam process can be arranged easily and quickly. All you need is a computer lab and a working internet connection. Even if an organization doesn’t have enough number of computers, the exam can be organized anywhere in any college as the process is completely online. It is also easy to manage the process of examination. We need not to assign many invigilators to keep an eye on the candidates. It is also easy for candidates to give an exam using a computer.
 
